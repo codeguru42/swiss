@@ -16,13 +16,13 @@
 
         <Button
             android:id="@+id/newTournament"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/newTournament" />
 
         <Button
             android:id="@+id/loadTournament"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/loadTournament" />
     </LinearLayout>
