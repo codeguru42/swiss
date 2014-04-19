@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SwissTournament</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="appName">Swiss Tournament</string>
+    <string name="newTournament">New Tournament</string>
+    <string name="loadTournament">Load Tournament</string>
     <string name="action_settings">Settings</string>
 
 </resources>
